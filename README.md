@@ -1,7 +1,6 @@
 # Titanic-Kaggle-Competition-on-Kaggle
-## My notebook
 
-My notebook is on top 4% on Kaggle.
+Top 4% on Kaggle.
 
 ## Competition
 This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
